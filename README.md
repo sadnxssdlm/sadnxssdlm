@@ -28,7 +28,7 @@
 ### 🛠️ Technologies I'm Exploring
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,vite,html,css,nodejs,git,react,mysql,express,figma,tailwind,git,vscode,github&theme=light&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,postman,mysql,git,github,vscode,figma&theme=light&perline=5" />
 </p>
 
 ### 📊 My GitHub Stats
