@@ -44,7 +44,8 @@
 
 ### 🛠️ Technologies I'm Exploring
 
-<table>
+<table align="center" cellpadding="10">
+  <!-- Frontend -->
   <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=html&theme=light" width="50" height="50" />
@@ -53,6 +54,10 @@
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=css&theme=light" width="50" height="50" />
       <br>CSS
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=sass&theme=light" width="50" height="50" />
+      <br>Sass
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=js&theme=light" width="50" height="50" />
@@ -66,7 +71,17 @@
       <img src="https://skillicons.dev/icons?i=react&theme=light" width="50" height="50" />
       <br>React
     </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=mui&theme=light" width="50" height="50" />
+      <br>MUI
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=emotion&theme=light" width="50" height="50" />
+      <br>Emotion
+    </td>
   </tr>
+
+  <!-- Frameworks & Tools -->
   <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="50" height="50" />
@@ -85,15 +100,25 @@
       <br>Express
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=postman&theme=light" width="50" height="50" />
-      <br>Postman
+      <img src="https://skillicons.dev/icons?i=prisma&theme=light" width="50" height="50" />
+      <br>Prisma
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="50" height="50" />
       <br>MySQL
     </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postman&theme=light" width="50" height="50" />
+      <br>Postman
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=vercel&theme=light" width="50" height="50" />
+      <br>Vercel
+    </td>
+  </tr>
+
+  <!-- Tools & OS -->
+  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=git&theme=light" width="50" height="50" />
       <br>Git
@@ -110,8 +135,26 @@
       <img src="https://skillicons.dev/icons?i=figma&theme=light" width="50" height="50" />
       <br>Figma
     </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=ps&theme=light" width="50" height="50" />
+      <br>Photoshop
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=ubuntu&theme=light" width="50" height="50" />
+      <br>Ubuntu
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=debian&theme=light" width="50" height="50" />
+      <br>Debian
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=windows&theme=light" width="50" height="50" />
+      <br>Windows
+    </td>
   </tr>
 </table>
+
+
 
 </div>
 
