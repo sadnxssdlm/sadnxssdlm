@@ -4,18 +4,18 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=2500&pause=800&color=5ba241&center=true&vCenter=true&width=700&lines=I'm+Sadness+✨;Web+Development+Student;Learning+to+Code+💻;Wild+Code+School+Learner+🚀" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=2500&pause=800&color=5ba241&center=true&vCenter=true&width=700&lines=I'm+Sadness+✨;Junior+Web+Developer;JavaScript+Developer+💻;React+%26+Next.js+Specialist+🚀" alt="Typing Animation" />
   </h1>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sadnxssdlm&color=5ba241&style=for-the-badge&label=Profile+Views" alt="Profile Views">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-5ba241?style=for-the-badge" alt="Focus">
-  <img src="https://img.shields.io/badge/Status-Learning-5ba241?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20Next.js-5ba241?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/Status-Junior%20Developer-5ba241?style=for-the-badge" alt="Status">
 </p>
 
 <div align="center">
-  <img width="60%" src="https://nirzak-streak-stats.vercel.app?user=sadnxssdlm&theme=dark&hide_border=true&background=0D1117&stroke=5ba241&ring=5ba241&fire=FF6B35&currStreakLabel=5ba241"/>
+  <img width="60%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=sadnxssdlm&theme=radical&hide_border=true"/>
 </div>
 
 <br/>
@@ -24,25 +24,25 @@
 
 ## 🌟 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=5ba241&size=20&center=true&lines=Aspiring+Web+Developer;Always+Ready;To+Learn" alt="About Me">
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=5ba241&size=20&center=true&lines=Junior+Web+Developer;JavaScript+Enthusiast;Building+with+React+%26+Next.js" alt="About Me">
 
 </div>
 
 <div align="left">
 
-### 🚀 My Learning Journey
-- 🎓 Currently studying at Wild Code School since March 2025
-- 💻 Focusing on JavaScript and Web Technologies
+### 🚀 My Journey
+- 🎓 Completed my training at Wild Code School in August 2025
+- 💻 Junior Developer specializing in JavaScript
+- ⚛️ Focused on React and Next.js frameworks
+- 🌱 Continuously learning and building new projects
 
 <br clear="right"/>
-
-
 
 ---
 
 <div align="center">
 
-### 🛠️ Technologies I'm Exploring
+### 🛠️ Technologies & Tools
 
 <table align="center" cellpadding="10">
   <!-- Frontend -->
@@ -72,20 +72,24 @@
       <br>React
     </td>
     <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="50" height="50" />
+      <br>Next.js
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="50" height="50" />
+      <br>Tailwind
+    </td>
+  </tr>
+
+  <!-- Frameworks & Libraries -->
+  <tr>
+    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=mui&theme=light" width="50" height="50" />
       <br>MUI
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=emotion&theme=light" width="50" height="50" />
       <br>Emotion
-    </td>
-  </tr>
-
-  <!-- Frameworks & Tools -->
-  <tr>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="50" height="50" />
-      <br>Tailwind
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=vite&theme=light" width="50" height="50" />
@@ -110,10 +114,6 @@
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=postman&theme=light" width="50" height="50" />
       <br>Postman
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=vercel&theme=light" width="50" height="50" />
-      <br>Vercel
     </td>
   </tr>
 
@@ -140,6 +140,10 @@
       <br>Photoshop
     </td>
     <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=vercel&theme=light" width="50" height="50" />
+      <br>Vercel
+    </td>
+    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=ubuntu&theme=light" width="50" height="50" />
       <br>Ubuntu
     </td>
@@ -147,14 +151,8 @@
       <img src="https://skillicons.dev/icons?i=debian&theme=light" width="50" height="50" />
       <br>Debian
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=windows&theme=light" width="50" height="50" />
-      <br>Windows
-    </td>
   </tr>
 </table>
-
-
 
 </div>
 
@@ -164,8 +162,10 @@
 
 ### 📊 My GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadnxssdlm&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=5ba241&title_color=5ba241"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadnxssdlm&layout=compact&theme=dark&title_color=5ba241"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=sadnxssdlm&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sadnxssdlm&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 </div>
 
