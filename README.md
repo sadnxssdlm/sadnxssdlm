@@ -5,7 +5,6 @@
 Hey, I'm Alexandre, a 22yo French full stack developer 👋
 <br>I like building stuff, learning new technologies, and getting better step by step.<br>
 Mostly working with React, Next.js, and TypeScript, but I'm always curious to explore more on both front and back.
-Also into game dev with Lua & FiveM.
 
 <br/>
 
@@ -28,6 +27,8 @@ Also into game dev with Lua & FiveM.
   <tr>
     <td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=lua" width="40" /><br><sub>Lua</sub></td>
     <td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=php" width="40" /><br><sub>PHP 8.5</sub></td>
+    <td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=vuejs" width="40" /><br><sub>VueJS</sub></td>
+    <td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=angular" width="40" /><br><sub>Angular</sub></td>
     <td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" width="40" /><br><sub>Prisma</sub></td>
     <td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="40" /><br><sub>Docker</sub></td>
     <td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" width="40" /><br><sub>NGINX</sub></td>
@@ -89,6 +90,7 @@ Also into game dev with Lua & FiveM.
     <td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=eslint" width="40" /><br><sub>ESLint</sub></td>
     <td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=prettier" width="40" /><br><sub>Prettier</sub></td>
     <td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="40" /><br><sub>Postman</sub></td>
+    <td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=vitest" width="40" /><br><sub>Vitest</sub></td>
   </tr>
 </table>
 
